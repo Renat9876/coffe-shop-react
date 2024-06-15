@@ -1,0 +1,548 @@
+.container {
+    width: 100%;
+    height: auto;
+}
+
+.Section1 {
+    width: 6rem;
+    height: 6rem;
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.smoking {
+    margin-left: 2rem;
+}
+
+.now {
+    margin-left: 2rem;
+}
+
+.drew {
+    margin-left: 2rem;
+}
+
+.gifts {
+    margin-left: 2rem;
+}
+
+.tea {
+    margin-left: 2rem;
+    width: 5rem;
+}
+
+.section1img {
+    width: 6rem;
+    height: 6rem;
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.cansas {
+    margin-left: 2rem;
+    height: 6.3rem;
+}
+
+.coton {
+    margin-left: 2.5rem;
+}
+
+.desert {
+    margin-left: 2rem;
+}
+
+.bear {
+    margin-left: 2.5rem;
+}
+
+.biotics {
+    margin-left: 2rem;
+    width: 5rem;
+}
+
+.write {
+    margin-left: 12rem;
+    width: 55%;
+}
+
+.located {
+    color: black;
+    font-weight: bold;
+}
+
+.location {
+    float: right;
+    margin-right: 8rem;
+}
+
+.img12 {
+    width: 10rem;
+    height: 10rem;
+    margin-top: -10rem;
+}
+
+.loc {
+    color: rgb(92, 90, 90);
+    margin-left: 2.3rem;
+    font-size: 1rem;
+}
+
+.st {
+    color: rgb(148, 144, 144);
+    margin-left: 2.1rem;
+}
+
+.kansas {
+    color: rgb(148, 144, 144);
+    margin-left: 0.9rem;
+}
+
+.hours {
+    color: rgb(92, 90, 90);
+    margin-left: 3rem;
+    font-size: 1rem;
+}
+
+.MF {
+    color: rgb(148, 144, 144);
+    margin-left: 2.1rem;
+    font-weight: normal;
+}
+
+.sat {
+    color: rgb(148, 144, 144);
+    margin-left: 2.1rem;
+    font-weight: normal;
+}
+
+.sun {
+    color: rgb(148, 144, 144);
+    margin-left: 2.1rem;
+    font-weight: normal;
+}
+
+.contact {
+    color: rgb(92, 90, 90);
+    margin-left: 1.5rem;
+    font-size: 1rem;
+}
+
+.number {
+    margin-left: 1.4rem;
+    font-weight: normal;
+    color: rgb(148, 144, 144);
+}
+
+.facebook {
+    margin-left: 3rem;
+}
+
+.instagram {
+    margin-left: 1rem;
+}
+
+.line {
+    width: 100%;
+    margin-top: 5rem;
+    color: black;
+    height: 100px;
+}
+
+/* responsive 1200 */
+
+@media (max-width: 1200px) {
+    .Section1 {
+        flex-wrap: wrap;
+        width: 70rem;
+        margin-left: 100px;
+    }
+
+    .tato {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .smoking {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .now {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .drew {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .gifts {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .tea {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .section1img {
+        flex-wrap: wrap;
+        width: 60rem;
+        margin-left: 28rem;
+    }
+
+    .bison {
+        margin-top: 7rem;
+        margin-left: 11rem;
+        height: 220px;
+        width: 220px;
+    }
+
+    .cansas {
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 7rem;
+    }
+
+    .coton {
+        margin-top: 22rem;
+        margin-left: -60.5rem;
+        height: 220px;
+        width: 220px;
+    }
+    .desert{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .bear{
+        margin-left: 1.5rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .biotics{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .container1{
+     margin-left:95rem ;
+
+    }
+    .write{
+         margin-top: 30rem;
+         width: 100%;
+    }
+
+}
+
+/* responsive 992 */
+
+@media (max-width: 992px) {
+    .Section1 {
+        flex-wrap: wrap;
+        width: 70rem;
+        margin-left: 100px;
+    }
+
+    .tato {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .smoking {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .now {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .drew {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .gifts {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .tea {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .section1img {
+        flex-wrap: wrap;
+        width: 60rem;
+        margin-left: 28rem;
+    }
+
+    .bison {
+        margin-top: 7rem;
+        margin-left: 11rem;
+        height: 220px;
+        width: 220px;
+    }
+
+    .cansas {
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 7rem;
+    }
+
+    .coton {
+        margin-top: 22rem;
+        margin-left: -60.5rem;
+        height: 220px;
+        width: 220px;
+    }
+    .desert{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .bear{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .biotics{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .container1{
+     margin-left:95rem ;
+
+    }
+    .write{
+         margin-top: 30rem;
+         width: 100%;
+    }
+
+}
+
+
+/*  responsive dizayn 768 px  */
+
+@media (max-width:768px) {
+    .Section1 {
+        flex-wrap: wrap;
+        width: 70rem;
+        margin-left: 100px;
+    }
+
+    .tato {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .smoking {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .now {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .drew {
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .gifts {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .tea {
+        margin-top: 1rem;
+        margin-left: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+    .section1img {
+        flex-wrap: wrap;
+        width: 60rem;
+        margin-left: 28rem;
+    }
+
+    .bison {
+        margin-top: 7rem;
+        margin-left: 11rem;
+        height: 220px;
+        width: 220px;
+    }
+
+    .cansas {
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 7rem;
+    }
+
+    .coton {
+        margin-top: 22rem;
+        margin-left: -60.5rem;
+        height: 220px;
+        width: 220px;
+    }
+    .desert{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .bear{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .biotics{
+        margin-left: 2rem;
+        height: 220px;
+        width: 220px;
+        margin-top: 22rem;
+    }
+    .container1{
+     margin-left:95rem ;
+
+    }
+    .write{
+         margin-top: 30rem;
+         width: 100%;
+    }
+}
+
+
+/*    responsive  */
+
+/* @media (max-width:560px) {
+    .Section1 {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 100px;
+    }
+
+    .Section1 img {
+        margin-left: 30px;
+    }
+
+    .smoking {
+        margin-top: 20px;
+    }
+
+    .now {
+        margin-top: 20px;
+    }
+
+    .drew {
+        margin-top: 20px;
+    }
+
+    .gifts {
+        margin-top: 20px;
+        width: 300px;
+        height: 300px;
+    }
+
+    .tea {
+        width: 300px;
+        height: 300px;
+        margin-top: 20px;
+    }
+
+    .section1img {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 28rem;
+        margin-top: -6rem;
+    }
+
+    .bison {
+        margin-left: 30px;
+    }
+
+    .cansas {
+        margin-top: 20px;
+        width: 300px;
+        height: 295px;
+    }
+
+    .coton {
+        margin-top: 20px;
+    }
+
+    .desert {
+        margin-top: 20px;
+    }
+
+    .bear {
+        margin-top: 20px;
+        width: 300px;
+        height: 300px;
+    }
+
+    .biotics {
+        margin-top: 20px;
+        width: 300px;
+        height: 290px;
+    }
+
+    .container1 {
+        margin-left: 75rem;
+        margin-top: 40px;
+    }
+
+    .write {
+        margin-left: 5rem;
+        width: 100%;
+    }
+
+    .located {
+        margin-top: 33rem;
+    }
+}
+ */

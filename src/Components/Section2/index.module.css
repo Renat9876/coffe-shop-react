@@ -1,0 +1,568 @@
+.Sectionn {
+    width: 7rem;
+    height: 7rem;
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.apple {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.tenco {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.coro {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.todo {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.superman {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.seans {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.comfort {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.Sectionnn {
+    display: flex;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.open {
+    margin-left: 13rem;
+    margin-top: 2rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.drink {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.drink2 {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.kansas {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.dog {
+    margin-left: 1rem;
+    width: 6.5rem;
+    height: 7.5rem;
+}
+
+.cat {
+    margin-left: 1rem;
+    width: 6.8rem;
+    height: 7.5rem;
+}
+
+.happy {
+    margin-left: 1rem;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+
+/* responsive 1200 */
+
+@media (max-width: 1200px) {
+    .Sectionn {
+        flex-wrap: wrap;
+        width: 62rem;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .apple {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .tenco {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .coro {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .todo {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .superman {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .seans {
+        margin-left: 3.4rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 20px;
+    }
+
+    .comfort {
+        width: 7.5rem;
+        width: 7.5rem;
+    }
+    .Sectionnnn {
+        flex-wrap: wrap;
+        width: 62rem;
+        margin-left: 100px;
+        /* margin-top: 16rem; */
+    }
+
+    .open {
+        margin-top: -1rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        margin-left: 1.3rem;
+    }
+
+    .drink {
+        margin-top: 2rem;
+        width: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .drink2 {
+        margin-top: 1.9rem;
+        margin-left: 1.3rem;
+        /* position: absolute; */
+        width: 7.5rem;
+        width: 7.5rem;
+
+    }
+
+    .kansas {
+        margin-top: 2rem;
+        width: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .dog {
+        margin-top: 1.9rem;
+        margin-left: 1.7rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        /* position: absolute; */
+    }
+
+    .cat {
+        margin-left: 1.3rem;
+        margin-top: 1rem;
+        width: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .happy {
+        margin-top: 1rem;
+        margin-left: 1rem;
+        width: 7.5rem;
+        width: 7.5rem;
+        /* position: absolute; */
+    }
+}
+
+
+
+/* reponsive 992 */
+
+@media (max-width: 992px) {
+    .Sectionn {
+        flex-wrap: wrap;
+        width: 60rem;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .apple {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .tenco {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .coro {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .todo {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .superman {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .seans {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .comfort {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    .Sectionnnn {
+        flex-wrap: wrap;
+        width: 82rem;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .open {
+        margin-top: 16.5rem;
+        margin-left: 21.4rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink2 {
+        margin-left: 1.3rem;
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .kansas {
+        width: 300px;
+        height: 300px;
+    }
+
+    .dog {
+        margin-top: 1.9rem;
+        margin-left: 1.7rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .cat {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .happy {
+        margin-top: 1.9rem;
+        margin-left: 1rem;
+        width: 300px;
+        height: 300px;
+    }
+}
+
+/* reponsive 768 */
+
+@media (max-width: 768px) {
+    .Sectionn {
+        flex-wrap: wrap;
+        width: 60rem;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .apple {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .tenco {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .coro {
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .todo {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .superman {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .seans {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .comfort {
+        margin-top: 1rem;
+        margin-left: 3.4rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    .Sectionnnn {
+        flex-wrap: wrap;
+        width: 62rem;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .open {
+        margin-left: 21.4rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink2 {
+        margin-top: 1.9rem;
+        margin-left: 1.5rem;
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .kansas {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .dog {
+        margin-top: 1.9rem;
+        margin-left: 1.2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .cat {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .happy {
+        margin-top: 1.9rem;
+        margin-left: 1.3rem;
+        width: 300px;
+        height: 300px;
+    }
+}
+
+
+/* responsive 560 */
+
+@media (max-width:560px) {
+    .Sectionn {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 100px;
+        margin-top: -6rem;
+    }
+
+    .apple {
+        margin-left: 3.4rem;
+        margin-top: 9rem;
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+    .tenco {
+        margin-top: -18.7rem;
+        margin-left: 23.5rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .coro {
+        margin-top: 1rem;
+        margin-left: 1.2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .todo {
+        margin-top: -18.7rem;
+        margin-left: 23.5rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .superman {
+        margin-top: 1rem;
+        margin-left: 1.2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .seans {
+        margin-top: -18.7rem;
+        margin-left: 23.5rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .comfort {
+        margin-top: 1rem;
+        margin-left: 1.2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .Sectionnnn {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 100px;
+        margin-top: 16rem;
+    }
+
+    .open {
+        margin-top: 45.5rem;
+        margin-left: 23.4rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .drink2 {
+        margin-top: 1.9rem;
+        margin-left: 3.3rem;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .kansas {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .dog {
+        margin-top: 1.9rem;
+        margin-left: 3.2rem;
+        width: 300px;
+        height: 300px;
+        position: absolute;
+    }
+
+    .cat {
+        margin-top: 2rem;
+        width: 300px;
+        height: 300px;
+    }
+
+    .happy {
+        margin-top: 1.9rem;
+        margin-left: 3.2rem;
+        width: 300px;
+        height: 300px;
+        position: absolute;
+    }
+
+}
+

@@ -1,0 +1,286 @@
+
+
+.Vendor {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    background-color:white;
+}
+
+.vendor{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-top: 4rem;
+}
+
+.make{
+    text-align: center;
+    color: rgb(158, 149, 149);
+    font-weight: normal;
+}
+
+.sendus{
+    text-align: center;
+    color: rgb(158, 149, 149);
+    font-weight: normal;
+}
+
+.name {
+    display: flex;
+}
+
+.name1{
+    margin-left: 24%;
+    font-size: 1.2rem;
+    color: rgb(158, 145, 145);
+}
+
+.requried1{
+    font-size: 1rem;
+    margin-left: 0.3rem;
+    color: rgb(158, 149, 149);
+    margin-top: 1.4rem;
+}
+
+.first {
+    display: flex;
+}
+
+.firstname {
+    margin-left: 24%;
+    color: rgb(158, 149, 149);
+    margin-top: -1rem;
+    font-size: 0.8rem;
+}
+
+.inputfirst{
+    color: rgb(158, 149, 149);
+    margin-top: 0.5rem;
+    width: 25%;
+    height: 2rem;
+    margin-left: -4.5%;
+}
+
+.lastname{
+    color: rgb(158, 149, 149);
+    margin-top: -1rem;
+    font-size: 0.8rem;
+    margin-left: 1rem;
+}
+.inputlast {
+    color: rgb(158, 149, 149);
+    margin-top: 0.5rem;
+    width: 25%;
+    height: 2rem;
+    margin-left: -4rem;
+}
+
+.email{
+    display: flex;
+}
+
+.Email{
+    margin-left: 24%;
+    font-size: 1.2rem;
+    color: rgb(158, 145, 145);
+}
+
+.emailrequried{
+    font-size: 1rem;
+    margin-left: 0.3rem;
+    color: rgb(158, 149, 149);
+    margin-top: 1.4rem;
+}
+
+.inputemail1{
+    color: rgb(158, 149, 149);
+    width: 51.3%;
+    margin-left: 24%;
+    height: 2rem;
+}
+
+.Message {
+    display: flex;
+}
+
+.message{
+    margin-left: 24%;
+    font-size: 1.2rem;
+    color: rgb(158, 145, 145);
+}
+
+.messagerequried{
+    font-size: 1rem;
+    margin-left: 0.3rem;
+    color: rgb(158, 149, 149);
+    margin-top: 1.4rem;
+}
+
+.inputmessage{
+    color: rgb(158, 149, 149);
+    width: 51.3%;
+    margin-left: 24%;
+    height: 7rem;
+}
+
+.submit {
+    margin-left: 24%;
+    margin-top: 1rem;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 45%;
+    color: white;
+    background-color: rgb(51, 47, 47);
+    border: none;
+    font-size: 1.1rem;
+    font-weight: normal;
+}
+
+.submit:hover{
+    background-color: rgb(53, 52, 52);
+}
+
+
+/* responsive 1200 */
+@media (max-width:1200px) {
+
+    .Vendor{
+        width: 100%;
+        margin-left: 20rem;
+    }
+    .inputfirst{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+    .inputlast{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputemail1{
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputmessage{
+        width: 50%;
+        border: 1px solid black;
+    }
+    .submit{
+        margin-top: 1rem;
+    }
+}
+
+
+/* responsive 992 */
+@media (max-width:992px) {
+
+    .Vendor{
+        width: 100%;
+        margin-left: 20rem;
+    }
+    .inputfirst{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+    .inputlast{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputemail1{
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputmessage{
+        width: 50%;
+        border: 1px solid black;
+    }
+    .submit{
+        margin-top: 1rem;
+    }
+}
+
+
+
+
+/* reponsive 768 */
+@media (max-width:768px) {
+
+    .Vendor{
+        width: 100%;
+        margin-left: 20rem;
+    }
+    .inputfirst{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+    .inputlast{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputemail1{
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputmessage{
+        width: 50%;
+        border: 1px solid black;
+    }
+    .submit{
+        margin-top: 1rem;
+    }
+}
+
+/* responsive 560 */
+
+@media (max-width:560px) {
+
+    .Vendor{
+        width: 100%;
+        margin-left: 20rem;
+    }
+    .inputfirst{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+    .inputlast{
+        margin-top: 2rem;
+        margin-left: -2.7rem;
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputemail1{
+        width: 40%;
+        border: 1px solid black;
+    }
+
+    .inputmessage{
+        width: 50%;
+        border: 1px solid black;
+    }
+    .submit{
+        margin-top: 1rem;
+    }
+}
+
+

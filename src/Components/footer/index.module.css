@@ -1,0 +1,122 @@
+.footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 60vh;
+}
+
+.footertop{
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(68, 66, 66);
+    text-align: center;
+    justify-content: center;
+}
+
+.footerbootom{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(53, 51, 51);
+}
+
+.facebookk{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.instagramm{
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 1rem;
+    border: 1rem black;
+}
+
+.facebookk:hover{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.instagramm:hover{
+    background-color: white;
+    border-radius: 50%;
+}
+
+
+/* ikinci footer */
+
+.footerbootom {
+    position: relative;
+}
+
+
+.humbold{
+    margin-left: 12%;
+     position: absolute;
+     margin-top: 10vh;
+     color: rgb(230, 210, 210);
+     font-size: 1rem;
+     
+}
+
+.powerdby{
+    display: flex;
+   position: relative;
+   text-align: center;
+   justify-content: center;
+}
+
+.powerd{
+    margin-top: 7rem;
+    color: rgb(102, 100, 100);
+}
+
+.Squarespace{
+    margin-top: 7rem;
+    margin-left: 0.5rem;
+    color: rgb(102, 100, 100);
+}
+
+@media (max-width:992px) {
+    .footer{
+        margin-top:-8.5rem;
+        width: 100%;
+    }
+    .footertop{
+        width: 100rem;
+        margin-top: 2rem;
+    }
+    .footerbootom{
+        width: 100rem;
+    }
+}
+
+@media (max-width:768px) {
+    .footer{
+        margin-top:-8.5rem;
+        width: 100%;
+    }
+    .footertop{
+        width: 100rem;
+        margin-top: 2rem;
+    }
+    .footerbootom{
+        width: 100rem;
+    }
+}
+
+@media (max-width:560px) {
+    .footer{
+        margin-top:5.5rem;
+        width: 100%;
+    }
+    .footertop{
+        width: 100rem;
+        margin-top: 2rem;
+    }
+    .footerbootom{
+        width: 100rem;
+    }
+}
+

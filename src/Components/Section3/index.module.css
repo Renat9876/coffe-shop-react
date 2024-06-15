@@ -1,0 +1,662 @@
+.Section3 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 200vh;
+    background-color: rgb(236, 236, 236);
+    margin-top: 5rem;
+}
+
+.Cicon {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 45%;
+    margin-top: 4rem;
+
+}
+
+.octagon {
+    margin-left: 35%;
+    margin-top: 2rem;
+}
+
+
+.write {
+    display: flex;
+    width: 60%;
+    margin-left: 15%;
+}
+
+.Espresso {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 22%;
+    font-weight: normal;
+}
+
+.mani {
+    margin-left: 12rem;
+    margin-top: 1.8rem;
+    color: gray;
+}
+
+.oz {
+    margin-top: 4rem;
+    margin-left: -5rem;
+    width: 4%;
+    color: gray;
+    display: flex;
+}
+
+.hugo {
+    margin-left: 8rem;
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-top: 1.5rem;
+}
+
+.manii {
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    color: rgb(109, 106, 106);
+}
+
+.lorem1 {
+    width: 10%;
+    margin-right: 15rem;
+    margin-left: 55.5%;
+    margin-top: -1rem;
+    color: rgb(156, 152, 152);
+    font-size: 0.9rem;
+}
+
+.write1 {
+    display: flex;
+    width: 60%;
+    margin-left: 15%;
+    margin-top: -7rem;
+}
+
+.machiatto {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 22%;
+    font-weight: normal;
+}
+
+.oz1 {
+    margin-top: 4rem;
+    margin-left: -6rem;
+    width: 4%;
+    color: gray;
+    display: flex;
+}
+
+.mani3 {
+    margin-left: 12rem;
+    margin-top: 1.8rem;
+    color: gray;
+}
+
+.write2 {
+    display: flex;
+    width: 60%;
+    margin-left: 15%;
+    margin-top: -2rem;
+}
+
+.Cortado {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 22%;
+    font-weight: normal;
+}
+
+.oz2 {
+    margin-top: 4rem;
+    margin-left: -4.5rem;
+    width: 6%;
+    color: gray;
+    display: flex;
+}
+
+.mani4 {
+    margin-left: 10.5rem;
+    margin-top: 1.8rem;
+    color: gray;
+}
+
+.coffe {
+    width: 50%;
+    margin-left: 15%;
+}
+
+.capucino {
+    display: flex;
+    width: 60%;
+    margin-left: 15%;
+    margin-top: -2rem;
+}
+
+.cappucino {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 2rem;
+}
+
+.oz6 {
+    margin-top: 4rem;
+    margin-left: -6rem;
+    width: 8%;
+    color: gray;
+}
+
+.mani5 {
+    margin-left: 11.2rem;
+    margin-top: 1.8rem;
+    color: gray;
+}
+
+
+/* ikinci teref */
+
+.summery {
+    display: flex;
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -7rem;
+}
+
+.summer {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.sree {
+    margin-top: 2.2rem;
+    color: gray;
+}
+
+.oz16 {
+    margin-top: 6rem;
+    margin-left: -17.2rem;
+    width: 20%;
+    color: gray;
+}
+
+.classic {
+    margin-top: 8rem;
+    margin-left: -4.7rem;
+    width: 25%;
+    color: gray;
+}
+
+.berry {
+    margin-top: 9.5rem;
+    margin-left: -5.8rem;
+    width: 30%;
+    color: gray;
+}
+
+.latte{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: -5rem;
+    width: 100%;
+}
+
+.oz3540{
+    margin-left: 20rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.oz1216{
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+}
+
+.add{
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+}
+
+.chailatte{
+    display: flex;
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -4rem;
+}
+
+.Chai {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.oz44{
+    margin-top: 2.2rem;
+    color: gray;
+}
+
+.oz122{
+    margin-top: 4rem;
+    margin-left: -17.2rem;
+    width: 20%;
+    color: gray;
+
+}
+
+
+.mocha {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: -1.5rem;
+    width: 70%;
+}
+
+.S445{
+    margin-left: 20rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.oz12oz{
+    color: rgb(109, 106, 106);
+    margin-left: 27%; 
+}
+
+
+.chocolate{
+    display: flex;
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -6rem;
+}
+
+.hotchocolate{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.S35{
+    margin-top: 2.2rem;
+    color: gray;
+    margin-left: -0.5rem;
+}
+
+.oz121{
+    margin-top: 4rem;
+    margin-left: -17.5rem;
+    width: 20%;
+    color: gray;
+}
+
+.americano{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: 0rem;
+    width: 70%;
+}
+
+.S25{
+    margin-left: 25rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.Oz12{
+    color: rgb(109, 106, 106);
+    margin-left: 27%; 
+}
+
+.Steamers{
+    display: flex;
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -6rem;
+}
+
+.steamers {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 1rem;
+    width: 70%;
+}
+
+.Ss25{
+    width: 20%;
+    color: gray;
+    margin-top: 1rem;
+    margin-left: -0.4rem;
+}
+
+.oz1211{
+    margin-top: 3.5rem;
+    margin-left: -20.5rem;
+    width: 20%;
+    color: gray;
+}
+
+.Single{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: 0rem;
+    width: 70%;
+}
+
+.dripcoffe{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: -0.7rem;
+    width: 70%;
+}
+
+.S2253{
+    margin-left: 20rem;
+    width: 20%;
+    color: gray;
+    margin-top: -4.5rem;
+}
+
+.oz121620{
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    margin-top: 3rem;
+}
+
+.Italiansodas{
+    display: flex;
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -6rem;
+}
+
+.italiansodas {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: -1rem;
+    width: 70%;
+}
+
+.SS25{
+    width: 20%;
+    color: gray;
+    margin-top: -0.8rem;
+    margin-left: -0.5rem;
+}
+
+.oz20{
+    margin-top: 1.5rem;
+    margin-left: -20.5rem;
+    width: 20%;
+    color: gray;
+}
+
+.bottomless{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.ccoffe {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: -0.7rem;
+    width: 70%;
+}
+
+.S2s {
+    margin-left: 25.4rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.unlimited {
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    margin-top: 0.5rem;
+}
+
+.rosewater{
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -7.5rem;
+}
+
+.Rosewater{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.Lemonade {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: -1rem;
+    width: 70%;
+}
+
+.S25s {
+    width: 20%;
+    color: gray;
+    margin-top: -4rem;
+    margin-left: 20.5rem;
+}
+
+.oz20s{
+    margin-top: 2rem;
+    margin-left: 4.5rem;
+    width: 20%;
+    color: gray;
+}
+
+.pourover {
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: 2rem;
+    width: 70%;
+}
+
+.S4s{
+    margin-left: 25.4rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.oz12s{
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    margin-top: -0.5rem;
+}
+
+.Cookies{
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -7.5rem;
+}
+
+.cookies{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 4rem;
+    width: 70%;
+}
+
+.S195s{
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+    margin-left: 20.5rem;
+}
+
+.french{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    font-weight: normal;
+    margin-top: 3rem;
+    width: 70%;
+}
+
+.S4ss {
+    margin-left: 25.4rem;
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+}
+
+.oz12ss{
+    color: rgb(109, 106, 106);
+    margin-left: 27%;
+    margin-top: -0.5rem;
+}
+
+.Muffins{
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -7.5rem;
+}
+
+.muffins{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 3rem;
+    width: 70%;
+}
+
+.S195ss{
+    width: 20%;
+    color: gray;
+    margin-top: -2.5rem;
+    margin-left: 20.5rem;
+}
+
+.Parfait{
+    width: 55%;
+    margin-left: 70%;
+    margin-top: -2.5rem;
+}
+
+.yogurt{
+    font-size: 1.3rem;
+    color: rgb(109, 106, 106);
+    margin-left: 20%;
+    font-weight: normal;
+    margin-top: 4rem;
+    width: 70%;
+}
+
+.S395s{
+    width: 20%;
+    color: gray;
+    margin-top: -2.7rem;
+    margin-left: 20.5rem;
+}
+
+.oz12sS{
+    margin-top: 1rem;
+    margin-left: 4.5rem;
+    width: 20%;
+    color: gray;
+}
+
+
+/* responsive 1200 */
+@media (max-width:1200px) {
+
+    .Section3{
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 16rem;
+        width: 83rem;
+        height: 80rem;
+    }
+}
+/* responsive 992  */
+
+@media (max-width:992px) {
+
+    .Section3{
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 16rem;
+        width: 83rem;
+        height: 80rem;
+    }
+}
+
+/* responsive 768 */
+
+@media (max-width:768px) {
+
+    .Section3{
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 16rem;
+        width: 83rem;
+        height: 80rem;
+    }
+}
+
+/* responsive 560 */
+
+@media (max-width:560px) {
+    .Section3{
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 16rem;
+        width: 83rem;
+        height: 80rem;
+    }
+}
+
